@@ -1,0 +1,24 @@
+Versionmod: szmo3
+Textsubversionmod: Đã có bản cập nhật mới, vui lòng cập nhật!.
+Buttonsubversionmod: Cập nhật
+Urlvernew: m.me/LTAAndroid123
+m_key0: Key bạn vừa nhập không chính xác!
+Key: Bấm 'Lấy Key' để lấy key khác nhé.
+KeyMain:
+Nội dung 1: Đăng nhập thành công!
+Nội dung 2: null
+Nút:
+Link Key: m.me/LTAAndroid123
+Iconsize: 45
+Title: <b>LTA Android</b>
+Subtitle: <b><marquee><p style=\"font-size:30\">
+Subtitle2: <p style=\"color:green;\"></p>Mua hack 200k/hết mùa full thiết bị Tại m.me/LTAAndroid123
+Subtitle3: </p>
+Subtitle4: </marquee></b>
+Setting: ⚙
+Setting2: +
+Hide: Ẩn
+ToastHide: Ẩn Menu
+ToastHide2: Menu Tắt Hoàn Toàn
+Close: Đóng
+Toastmodby: Mod by LTA Android
